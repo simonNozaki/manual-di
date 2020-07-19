@@ -1,4 +1,4 @@
-package jp.co.netprotections.di.service.impl
+package com.example.di.service.impl
 
 import com.example.di.service.EntrepreneurService
 import org.springframework.stereotype.Service

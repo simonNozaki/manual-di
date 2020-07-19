@@ -6,8 +6,8 @@ import org.springframework.context.annotation.ComponentScan
 
 @SpringBootApplication
 @ComponentScan(
-		"jp.co.netprotections.di.service",
-		"jp.co.netprotections.di.controller"
+		"com.example.di.service",
+		"com.example.di.controller"
 )
 class DiApplication
 
